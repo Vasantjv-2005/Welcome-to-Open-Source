@@ -112,7 +112,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Vasant Jevengekar" />
                     <br />
                     <sub>
-                        <b>Vasant Jevengekar</b>
+                        <b>Vasant Jevengekars</b>
                     </sub>
                 </a>
             </td>
